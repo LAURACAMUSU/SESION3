@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>
+        <head><h1>CURRÍCULUM VITAE</h1></head>
+    </p>
+        <img src="/imagenes/6427690378874.jpg" alt="Fotografía" longdesc="C:\Users\LAURA CAMUS\Pictures.html" />
+       
+    
+        <ol>
+            <li><h2>Datos Personales:</h2></li>
+            <ul>
+                <p>
+                    <li>
+                        <label>Nombres: Berni Looi Laura Susan</label>
+                    </li>
+                    
+                <p>
+                    <li>
+                        <label>Apellidos: Camus Ugáz</label>
+                    </li>
+                    
+                </p>
+                <li>
+                    <label>Dirección: Calle Sócrates N°487-Urb.La Noria</label>
+                </li>
+                    
+                <p>
+                <li>
+                    <label>Teléfono: 979741268</label>
+                </li>
+                    
+                </p>
+                <li>
+                    <label>Correo Electrónico: cpclaura.camus@gmail.com</label>
+                </li>
+                     
+                </p>
+            </ul>
+            <li><h2>Formación Académica:</h2></li>
+            <ul>
+
+                <li type="circle">Contador Público.</li>
+                
+                <li type="square">Universidad César Vallejo.</li>
+                
+                <head type="number">2014.</head>
+                
+                </ul>
+            <li><h2>Experiencia Laboral:</h2></li>
+            <ul>
+
+                <li type="circle">Farell Contratistas Generales S.A.C.-Contador.</li>                                             
+                <head type="number">2021.</head>
+
+                <li type="circle">Corporate Service GA-Contador.</li>                                             
+                <head type="number">2019-2020.</head>
+                
+                </ul>
+            <li><h2>Otros Datos de Interés:</h2></li>
+
+            <ul>
+                <li type="circle">Microsof Ofice-Avanzado.</li>                                             
+                    <head type="number">2017.</head>
+
+                    <li type="circle">Ingles-Intermedio.</li>                                             
+                    <head type="number">2021.</head>
+            </ul>
+
+            <p>
+                <head><button>Inicio</button></head>
+            </p>
+            
+                    
+          </ol>
+    
+        
+        
+       
+    
+    
+    
+      
+</body>
+</html>
