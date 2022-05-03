@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primera Prueba HTML5</title>
+</head>
+<body>
+    <head>Prueba HTML5</head>
+    
+        <p>
+        <label>Nombres:</label>
+        <input type="text">
+
+    </p>
+    
+    <p>
+        <label>Correo Electrónico:</label>
+        <input type="text">
+    </p>
+    
+    <p>
+        <label>URL:</label>
+        <input type="text">
+    
+    </p>
+
+    <p>
+        <label>Fecha y hora:</label>
+        <input type="date and time">
+
+    </p>
+    
+
+    <p>
+        <label>Mes:</label>
+        <input type="month">
+
+    </p>
+
+    <p>
+        <label>Semana:</label>
+        <input type="week">
+
+    </p>
+
+    <p>
+        <label>Numero(min-10,max10):</label>
+        <input type="number valor entre -10 y 10">
+
+    </p>
+
+
+    <p>
+        <label>Teléfono</label>
+        <input type="tel">
+    
+    </p>
+
+    <p>
+        <label>Termino de búsqueda:</label>
+        <input type="search">
+    
+    </p>
+
+    <p>
+        <label>color favorito:</label>
+        <input type="color">
+    
+    </p>
+    <button>Enviar</button>
+    
+    
+
+
+    </body>
+</html>
